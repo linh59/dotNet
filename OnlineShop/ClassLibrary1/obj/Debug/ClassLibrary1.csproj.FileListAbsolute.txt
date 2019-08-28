@@ -1,0 +1,12 @@
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Linh\personal\testing\dotNet\OnlineShop\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
