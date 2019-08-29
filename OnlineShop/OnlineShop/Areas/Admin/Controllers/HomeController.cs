@@ -14,8 +14,5 @@ namespace OnlineShop.Areas.Admin.Controllers
             return View();
         }
 
-        // testing git
-        // linh59
-        // linhnguyen
     }
 }
